@@ -10,7 +10,7 @@ export default function TrustStrip() {
         {stack.map((name) => (
           <span
             key={name}
-            className="text-lg font-semibold tracking-tight text-neutral-300"
+            className="text-lg font-semibold tracking-tight text-neutral-400"
           >
             {name}
           </span>
